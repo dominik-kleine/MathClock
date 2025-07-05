@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MathClock/static/css/main.402b7507.css",
+    "main.css": "/MathClock/static/css/main.476e4785.css",
     "main.js": "/MathClock/static/js/main.7fc969e9.js",
     "index.html": "/MathClock/index.html",
-    "main.402b7507.css.map": "/MathClock/static/css/main.402b7507.css.map",
+    "main.476e4785.css.map": "/MathClock/static/css/main.476e4785.css.map",
     "main.7fc969e9.js.map": "/MathClock/static/js/main.7fc969e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.402b7507.css",
+    "static/css/main.476e4785.css",
     "static/js/main.7fc969e9.js"
   ]
 }
